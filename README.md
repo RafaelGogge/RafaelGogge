@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">Meu nome é Rafael Gogge e sou desenvolvedor Java iniciante, do ES, Brasil 🇧🇷</h6>
+<h6 align="left">Meu nome é Rafael Gogge e sou desenvolvedor Java e FrontEnd, do ES, Brasil 🇧🇷</h6>
 
 ###
 
