@@ -13,12 +13,12 @@
 
 ## 📑 Índice
 
-- [Sobre Mim](#🙋‍♂️-sobre-mim)  
-- [Formação Acadêmica](#🎓-formação-acadêmica)  
-- [Minhas Tecnologias](#🛠️-minhas-tecnologias)  
-- [Projetos em Destaque](#🚀-projetos-em-destaque)  
-- [Metas de Aprendizado](#🚀-metas-de-aprendizado)  
-- [Contato](#✉️-contato-adicional)  
+- [Sobre Mim](#🙋‍♂️-sobre-mim)
+- [Formação Acadêmica](#🎓-formação-acadêmica)
+- [Minhas Tecnologias](#🛠️-minhas-tecnologias)
+- [Projetos em Destaque](#🚀-projetos-em-destaque)
+- [Metas de Aprendizado](#🚀-metas-de-aprendizado)
+- [Contato](#✉️-contato-adicional)
 - [Estatísticas & Conquistas](#📊-estatísticas--conquistas)
 - [🇺🇸 English Version](#🇺🇸-english-version)
 
@@ -26,17 +26,18 @@
 
 ## 🙋‍♂️ Sobre Mim
 
-Sou **Rafael Gogge**, estudante de **Análise e Desenvolvimento de Sistemas** no ES, Brasil 🇧🇷, com foco em **FrontEnd**. 
-- 💻 Apaixonado por transformar designs em interfaces responsivas e acessíveis.  
-- 🌐 Embaixador Universitário na Digital Innovation One, conectando aprendizes e projetos reais.  
+Sou **Rafael Gogge**, estudante de **Análise e Desenvolvimento de Sistemas** no ES, Brasil 🇧🇷, com foco em **FrontEnd**.
+
+- 💻 Apaixonado por transformar designs em interfaces responsivas e acessíveis.
+- 🌐 Embaixador Universitário na Digital Innovation One, conectando aprendizes e projetos reais.
 - 🚀 Ativamente explorando **n8n** para automação de processos e **testes automatizados** com pytest e Jest.
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-- **Análise e Desenvolvimento de Sistemas** — Centro Universitário Salesiano (Unisales) (2023–presente)  
-- **Embaixador Universitário** — Digital Innovation One (2024)  
+- **Análise e Desenvolvimento de Sistemas** — Centro Universitário Salesiano (Unisales) (2024–presente)
+- **Embaixador Universitário** — Digital Innovation One (2024)
 
 ---
 
@@ -44,8 +45,8 @@ Sou **Rafael Gogge**, estudante de **Análise e Desenvolvimento de Sistemas** no
 
 <div align="center">
 
-| **FrontEnd** | **Linguagens** | **Automação** | **Testes** | **Ferramentas & IDEs** | **Design & Org** |
-|:------------:|:---------------:|:-------------:|:----------:|:---------------------:|:---------------:|
+|                                                                 **FrontEnd**                                                                  |                                           **Linguagens**                                           |                                    **Automação**                                     |                                             **Testes**                                             |                                                **Ferramentas & IDEs**                                                |                                                 **Design & Org**                                                  |
+| :-------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
 | <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind" height="40" alt="FrontEnd" /><br/>JS, HTML, CSS, Bootstrap, Tailwind | <img src="https://skillicons.dev/icons?i=java,py" height="40" alt="Linguagens" /><br/>Java, Python | <img src="https://skillicons.dev/icons?i=n8n" height="40" alt="Automação" /><br/>n8n | <img src="https://skillicons.dev/icons?i=jest,pytest" height="40" alt="Testes" /><br/>pytest, Jest | <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" alt="Ferramentas" /><br/>Git, GitHub, VSCode | <img src="https://skillicons.dev/icons?i=figma,canva,trello" height="40" alt="Design" /><br/>Figma, Canva, Trello |
 
 </div>
@@ -57,11 +58,11 @@ Sou **Rafael Gogge**, estudante de **Análise e Desenvolvimento de Sistemas** no
 <details>
 <summary>🎯 Clique para ver os projetos</summary>
 
-| Projeto                   | Descrição                                                                                         | Tech Stack                               | Link                                                              |
-|:-------------------------:|:--------------------------------------------------------------------------------------------------|:----------------------------------------:|:-----------------------------------------------------------------:|
-| **Unilab Frontend**       | Sistema de agendamento para laboratórios universitários, facilitando o gerenciamento de horários. | JavaScript, HTML, CSS, Bootstrap         | [GitHub](https://github.com/RafaelGogge/unilab_frontend)          |
-| **GTI Sistema de Eventos**| Gerenciamento e exibição de eventos para painéis digitais da SSVS, com UI profissional e responsiva.| HTML, CSS, JavaScript                    | [GitHub](https://github.com/RafaelGogge/gti_sistema_de_eventos)    |
-| **Super Quiz QA**         | Quiz interativo para revisão de Qualidade de Software, tornando o estudo mais dinâmico e divertido.| HTML, CSS, JavaScript                    | [GitHub](https://github.com/RafaelGogge/super_quiz_QA)            |
+|          Projeto           | Descrição                                                                                            |            Tech Stack            |                              Link                               |
+| :------------------------: | :--------------------------------------------------------------------------------------------------- | :------------------------------: | :-------------------------------------------------------------: |
+|    **Unilab Frontend**     | Sistema de agendamento para laboratórios universitários, facilitando o gerenciamento de horários.    | JavaScript, HTML, CSS, Bootstrap |    [GitHub](https://github.com/RafaelGogge/unilab_frontend)     |
+| **GTI Sistema de Eventos** | Gerenciamento e exibição de eventos para painéis digitais da SSVS, com UI profissional e responsiva. |      HTML, CSS, JavaScript       | [GitHub](https://github.com/RafaelGogge/gti_sistema_de_eventos) |
+|     **Super Quiz QA**      | Quiz interativo para revisão de Qualidade de Software, tornando o estudo mais dinâmico e divertido.  |      HTML, CSS, JavaScript       |     [GitHub](https://github.com/RafaelGogge/super_quiz_QA)      |
 
 </details>
 
@@ -69,15 +70,15 @@ Sou **Rafael Gogge**, estudante de **Análise e Desenvolvimento de Sistemas** no
 
 ## 🚀 Metas de Aprendizado
 
-- **Dominar n8n** — projetar workflows robustos para integrações e automações avançadas.  
-- **Aprofundar em Testes Automatizados** — escrever testes unitários e de integração em Python (pytest) e JavaScript (Jest).  
+- **Dominar n8n** — projetar workflows robustos para integrações e automações avançadas.
+- **Aprofundar em Testes Automatizados** — escrever testes unitários e de integração em Python (pytest) e JavaScript (Jest).
 - **Melhorar Acessibilidade Web** — aplicar melhores práticas e normas WCAG em todos os projetos.
 
 ---
 
 ## ✉️ Contato Adicional
 
-- 📧 Email institucional: [rafael.gogge@souunisales.com.br](mailto:rafael.gogge@souunisales.com.br)  
+- 📧 Email institucional: [rafael.gogge@souunisales.com.br](mailto:rafael.gogge@souunisales.com.br)
 - 🔗 LinkedIn: [rafael-g-500824316](https://www.linkedin.com/in/rafael-g-500824316/)
 
 ---
@@ -108,16 +109,17 @@ Sou **Rafael Gogge**, estudante de **Análise e Desenvolvimento de Sistemas** no
 
 ## 🙋‍♂️ About Me
 
-I’m **Rafael Gogge**, a **Systems Analysis & Development student** in ES, Brazil 🇧🇷, focusing on **FrontEnd**.  
-- 💻 Passionate about turning designs into responsive, accessible interfaces.  
-- 🌐 University Ambassador at Digital Innovation One, bridging learners with real projects.  
+I’m **Rafael Gogge**, a **Systems Analysis & Development student** in ES, Brazil 🇧🇷, focusing on **FrontEnd**.
+
+- 💻 Passionate about turning designs into responsive, accessible interfaces.
+- 🌐 University Ambassador at Digital Innovation One, bridging learners with real projects.
 - 🚀 Actively exploring **n8n** for automation and **automated testing** with pytest and Jest.
 
 ---
 
 ## 🎓 Academic Background
 
-- **Systems Analysis & Development** — Centro Universitário Salesiano (Unisales) (2023–present)  
+- **Systems Analysis & Development** — Centro Universitário Salesiano (Unisales) (2024–present)
 - **University Ambassador** — Digital Innovation One (2024)
 
 ---
@@ -128,11 +130,11 @@ I’m **Rafael Gogge**, a **Systems Analysis & Development student** in ES, Braz
 <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,git,github,vscode,java,py,n8n" height="40" alt="Tech Stack" />
 </div>
 
-- **FrontEnd:** JavaScript, HTML5, CSS3, Bootstrap, Tailwind  
-- **Languages:** Java, Python  
-- **Automation:** n8n  
-- **Testing:** pytest, Jest  
-- **Tools & IDEs:** Git, GitHub, VSCode  
+- **FrontEnd:** JavaScript, HTML5, CSS3, Bootstrap, Tailwind
+- **Languages:** Java, Python
+- **Automation:** n8n
+- **Testing:** pytest, Jest
+- **Tools & IDEs:** Git, GitHub, VSCode
 - **Design & Org:** Figma, Canva, Trello
 
 ---
@@ -142,11 +144,11 @@ I’m **Rafael Gogge**, a **Systems Analysis & Development student** in ES, Braz
 <details>
 <summary>🎯 Click to view projects</summary>
 
-| Project                   | Description                                                                                         | Tech Stack                               | Link                                                              |
-|:-------------------------:|:----------------------------------------------------------------------------------------------------|:----------------------------------------:|:-----------------------------------------------------------------:|
-| **Unilab Frontend**       | Lab scheduling system for university, simplifying timetable management for professors.               | JS, HTML, CSS, Bootstrap                 | [GitHub](https://github.com/RafaelGogge/unilab_frontend)          |
-| **GTI Event System**      | End-to-end event management & display for SSVS digital panels, with a professional responsive UI.    | HTML, CSS, JavaScript                    | [GitHub](https://github.com/RafaelGogge/gti_sistema_de_eventos)    |
-| **Super Quiz QA**         | Interactive quiz for Software Quality review, making study sessions more dynamic and enjoyable.     | HTML, CSS, JavaScript                    | [GitHub](https://github.com/RafaelGogge/super_quiz_QA)            |
+|       Project        | Description                                                                                       |        Tech Stack        |                              Link                               |
+| :------------------: | :------------------------------------------------------------------------------------------------ | :----------------------: | :-------------------------------------------------------------: |
+| **Unilab Frontend**  | Lab scheduling system for university, simplifying timetable management for professors.            | JS, HTML, CSS, Bootstrap |    [GitHub](https://github.com/RafaelGogge/unilab_frontend)     |
+| **GTI Event System** | End-to-end event management & display for SSVS digital panels, with a professional responsive UI. |  HTML, CSS, JavaScript   | [GitHub](https://github.com/RafaelGogge/gti_sistema_de_eventos) |
+|  **Super Quiz QA**   | Interactive quiz for Software Quality review, making study sessions more dynamic and enjoyable.   |  HTML, CSS, JavaScript   |     [GitHub](https://github.com/RafaelGogge/super_quiz_QA)      |
 
 </details>
 
@@ -154,15 +156,15 @@ I’m **Rafael Gogge**, a **Systems Analysis & Development student** in ES, Braz
 
 ## 🚀 Learning Goals
 
-- **Master n8n** — design robust workflows for advanced integrations and automation.  
-- **Deepen Automated Testing** — implement unit & integration tests with Python (pytest) and JavaScript (Jest).  
+- **Master n8n** — design robust workflows for advanced integrations and automation.
+- **Deepen Automated Testing** — implement unit & integration tests with Python (pytest) and JavaScript (Jest).
 - **Enhance Web Accessibility** — apply WCAG best practices across all projects.
 
 ---
 
 ## ✉️ Additional Contact
 
-- 📧 Institutional email: [rafael.gogge@souunisales.com.br](mailto:rafael.gogge@souunisales.com.br)  
+- 📧 Institutional email: [rafael.gogge@souunisales.com.br](mailto:rafael.gogge@souunisales.com.br)
 - 🔗 LinkedIn: [rafael-g-500824316](https://www.linkedin.com/in/rafael-g-500824316/)
 
 ---
@@ -178,3 +180,7 @@ I’m **Rafael Gogge**, a **Systems Analysis & Development student** in ES, Braz
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelgogge&theme=react&area=true" height="200" alt="Activity Graph" />
   <img src="https://github-profile-trophy.vercel.app/?username=RafaelGogge&theme=onedark&column=4&margin-w=10&margin-h=10" alt="Trophies" />
 </div>
+
+<!-- ========================= -->
+<!-- 🌟 README PROFILE END -->
+<!-- ========================= -->
