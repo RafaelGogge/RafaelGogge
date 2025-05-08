@@ -10,7 +10,7 @@
       Olá, eu sou o Rafael Gogge!
     </text>
   </svg>
-  <p><em>Estudante de Sistemas & Entusiasta FrontEnd — Criando experiências digitais envolventes</em></p>
+  <p><em>Estudante de Analise e Desenvolvimento de Sistemas & Entusiasta FrontEnd — Criando experiências digitais envolventes</em></p>
   <!-- Visitor Count Badge -->
   <img src="https://profile-counter.glitch.me/RafaelGogge/count.svg" alt="Visitor Count" />
 </div>
