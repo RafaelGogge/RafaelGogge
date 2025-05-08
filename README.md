@@ -1,92 +1,180 @@
-<h2 align="left">👋Olá, bem-vindo(a) ao meu perfil no Github</h2>
-
-###
-
-<h6 align="left">Meu nome é Rafael Gogge e sou desenvolvedor Java e FrontEnd, do ES, Brasil 🇧🇷</h6>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<h5 align="left">Estudante de tecnologia, cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Salesiano (Unisales)<br><br>Embaixador universitário na Digital Innovation One, plataforma gamificada de educação online com mais de 2.000 experiências educacionais em desenvolvimento de software entre cursos, desafios de codificação e projetos práticos</h5>
-
-###
-
-<h2 align="left">Minhas Tecnologias</h2>
-
-###
-
-<br clear="both">
+<!-- ========================= -->
+<!-- 🌟 README PROFILE START -->
+<!-- ========================= -->
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=azure" height="50" alt="azure logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="50" alt="trello logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50" alt="amazonwebservices logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="50" alt="chrome logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" alt="google logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="linkedin logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50" alt="markdown logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="50" alt="gimp logo"  />
+  <h1>👋 Olá, eu sou o Rafael Gogge!</h1>
+  <p><em>Estudante de Sistemas & Entusiasta FrontEnd — Criando experiências digitais envolventes</em></p>
+  <!-- Visitor Count Badge -->
+  <img src="https://profile-counter.glitch.me/RafaelGogge/count.svg" alt="Visitor Count" />
 </div>
 
-###
+---
 
-<h2 align="left">Meu Status</h2>
+## 📑 Índice
 
-###
+- [Sobre Mim](#🙋‍♂️-sobre-mim)  
+- [Formação Acadêmica](#🎓-formação-acadêmica)  
+- [Minhas Tecnologias](#🛠️-minhas-tecnologias)  
+- [Projetos em Destaque](#🚀-projetos-em-destaque)  
+- [Metas de Aprendizado](#🚀-metas-de-aprendizado)  
+- [Contato](#✉️-contato-adicional)  
+- [Estatísticas & Conquistas](#📊-estatísticas--conquistas)
+- [🇺🇸 English Version](#🇺🇸-english-version)
 
-<br clear="both">
+---
+
+## 🙋‍♂️ Sobre Mim
+
+Sou **Rafael Gogge**, estudante de **Análise e Desenvolvimento de Sistemas** no ES, Brasil 🇧🇷, com foco em **FrontEnd**. 
+- 💻 Apaixonado por transformar designs em interfaces responsivas e acessíveis.  
+- 🌐 Embaixador Universitário na Digital Innovation One, conectando aprendizes e projetos reais.  
+- 🚀 Ativamente explorando **n8n** para automação de processos e **testes automatizados** com pytest e Jest.
+
+---
+
+## 🎓 Formação Acadêmica
+
+- **Análise e Desenvolvimento de Sistemas** — Centro Universitário Salesiano (Unisales) (2023–presente)  
+- **Embaixador Universitário** — Digital Innovation One (2024)  
+
+---
+
+## 🛠️ Minhas Tecnologias
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelgogge&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=rafaelgogge&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
+
+| **FrontEnd** | **Linguagens** | **Automação** | **Testes** | **Ferramentas & IDEs** | **Design & Org** |
+|:------------:|:---------------:|:-------------:|:----------:|:---------------------:|:---------------:|
+| <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind" height="40" alt="FrontEnd" /><br/>JS, HTML, CSS, Bootstrap, Tailwind | <img src="https://skillicons.dev/icons?i=java,py" height="40" alt="Linguagens" /><br/>Java, Python | <img src="https://skillicons.dev/icons?i=n8n" height="40" alt="Automação" /><br/>n8n | <img src="https://skillicons.dev/icons?i=jest,pytest" height="40" alt="Testes" /><br/>pytest, Jest | <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" alt="Ferramentas" /><br/>Git, GitHub, VSCode | <img src="https://skillicons.dev/icons?i=figma,canva,trello" height="40" alt="Design" /><br/>Figma, Canva, Trello |
+
 </div>
 
-###
+---
 
-<div align="right">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelgogge&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+## 🚀 Projetos em Destaque
 
-###
+<details>
+<summary>🎯 Clique para ver os projetos</summary>
+
+| Projeto                   | Descrição                                                                                         | Tech Stack                               | Link                                                              |
+|:-------------------------:|:--------------------------------------------------------------------------------------------------|:----------------------------------------:|:-----------------------------------------------------------------:|
+| **Unilab Frontend**       | Sistema de agendamento para laboratórios universitários, facilitando o gerenciamento de horários. | JavaScript, HTML, CSS, Bootstrap         | [GitHub](https://github.com/RafaelGogge/unilab_frontend)          |
+| **GTI Sistema de Eventos**| Gerenciamento e exibição de eventos para painéis digitais da SSVS, com UI profissional e responsiva.| HTML, CSS, JavaScript                    | [GitHub](https://github.com/RafaelGogge/gti_sistema_de_eventos)    |
+| **Super Quiz QA**         | Quiz interativo para revisão de Qualidade de Software, tornando o estudo mais dinâmico e divertido.| HTML, CSS, JavaScript                    | [GitHub](https://github.com/RafaelGogge/super_quiz_QA)            |
+
+</details>
+
+---
+
+## 🚀 Metas de Aprendizado
+
+- **Dominar n8n** — projetar workflows robustos para integrações e automações avançadas.  
+- **Aprofundar em Testes Automatizados** — escrever testes unitários e de integração em Python (pytest) e JavaScript (Jest).  
+- **Melhorar Acessibilidade Web** — aplicar melhores práticas e normas WCAG em todos os projetos.
+
+---
+
+## ✉️ Contato Adicional
+
+- 📧 Email institucional: [rafael.gogge@souunisales.com.br](mailto:rafael.gogge@souunisales.com.br)  
+- 🔗 LinkedIn: [rafael-g-500824316](https://www.linkedin.com/in/rafael-g-500824316/)
+
+---
+
+## 📊 Estatísticas & Conquistas
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rafael-g-500824316/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelgogge&layout=compact&langs_count=5&theme=dracula" height="120" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=rafaelgogge&mode=daily&theme=dracula&border_radius=4" height="120" alt="Streak Stats" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelgogge&theme=react&area=true" height="200" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RafaelGogge&theme=onedark&column=4&margin-w=10&margin-h=10" alt="Trophies" />
+</div>
+
+---
+
+## 🇺🇸 English Version
+
+<div align="center">
+  <h1>👋 Hi, I’m Rafael Gogge!</h1>
+  <p><em>Systems Analysis Student & FrontEnd Enthusiast — Crafting Engaging Digital Experiences</em></p>
+  <img src="https://profile-counter.glitch.me/RafaelGogge/count.svg" alt="Visitor Count" />
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+I’m **Rafael Gogge**, a **Systems Analysis & Development student** in ES, Brazil 🇧🇷, focusing on **FrontEnd**.  
+- 💻 Passionate about turning designs into responsive, accessible interfaces.  
+- 🌐 University Ambassador at Digital Innovation One, bridging learners with real projects.  
+- 🚀 Actively exploring **n8n** for automation and **automated testing** with pytest and Jest.
+
+---
+
+## 🎓 Academic Background
+
+- **Systems Analysis & Development** — Centro Universitário Salesiano (Unisales) (2023–present)  
+- **University Ambassador** — Digital Innovation One (2024)
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,git,github,vscode,java,py,n8n" height="40" alt="Tech Stack" />
+</div>
+
+- **FrontEnd:** JavaScript, HTML5, CSS3, Bootstrap, Tailwind  
+- **Languages:** Java, Python  
+- **Automation:** n8n  
+- **Testing:** pytest, Jest  
+- **Tools & IDEs:** Git, GitHub, VSCode  
+- **Design & Org:** Figma, Canva, Trello
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary>🎯 Click to view projects</summary>
+
+| Project                   | Description                                                                                         | Tech Stack                               | Link                                                              |
+|:-------------------------:|:----------------------------------------------------------------------------------------------------|:----------------------------------------:|:-----------------------------------------------------------------:|
+| **Unilab Frontend**       | Lab scheduling system for university, simplifying timetable management for professors.               | JS, HTML, CSS, Bootstrap                 | [GitHub](https://github.com/RafaelGogge/unilab_frontend)          |
+| **GTI Event System**      | End-to-end event management & display for SSVS digital panels, with a professional responsive UI.    | HTML, CSS, JavaScript                    | [GitHub](https://github.com/RafaelGogge/gti_sistema_de_eventos)    |
+| **Super Quiz QA**         | Interactive quiz for Software Quality review, making study sessions more dynamic and enjoyable.     | HTML, CSS, JavaScript                    | [GitHub](https://github.com/RafaelGogge/super_quiz_QA)            |
+
+</details>
+
+---
+
+## 🚀 Learning Goals
+
+- **Master n8n** — design robust workflows for advanced integrations and automation.  
+- **Deepen Automated Testing** — implement unit & integration tests with Python (pytest) and JavaScript (Jest).  
+- **Enhance Web Accessibility** — apply WCAG best practices across all projects.
+
+---
+
+## ✉️ Additional Contact
+
+- 📧 Institutional email: [rafael.gogge@souunisales.com.br](mailto:rafael.gogge@souunisales.com.br)  
+- 🔗 LinkedIn: [rafael-g-500824316](https://www.linkedin.com/in/rafael-g-500824316/)
+
+---
+
+## 📊 Statistics & Achievements
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelgogge&layout=compact&langs_count=5&theme=dracula" height="120" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=rafaelgogge&mode=daily&theme=dracula&border_radius=4" height="120" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelgogge&theme=react&area=true" height="200" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RafaelGogge&theme=onedark&column=4&margin-w=10&margin-h=10" alt="Trophies" />
+</div>
