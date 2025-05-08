@@ -3,7 +3,13 @@
 <!-- ========================= -->
 
 <div align="center">
-  <h1>👋 Olá, eu sou o Rafael Gogge!</h1>
+  <!-- SVG animado com efeito de digitação -->
+  <svg width="400" height="60">
+    <text x="0" y="45" font-size="40" font-family="monospace" fill="#6C63FF">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="3s" repeatCount="indefinite" />
+      Olá, eu sou o Rafael Gogge!
+    </text>
+  </svg>
   <p><em>Estudante de Sistemas & Entusiasta FrontEnd — Criando experiências digitais envolventes</em></p>
   <!-- Visitor Count Badge -->
   <img src="https://profile-counter.glitch.me/RafaelGogge/count.svg" alt="Visitor Count" />
@@ -26,17 +32,19 @@
 
 ## 🙋‍♂️ Sobre Mim
 
-Sou **Rafael Gogge**, estudante de **Análise e Desenvolvimento de Sistemas** no ES, Brasil 🇧🇷, com foco em **FrontEnd**.
-
-- 💻 Apaixonado por transformar designs em interfaces responsivas e acessíveis.
-- 🌐 Embaixador Universitário na Digital Innovation One, conectando aprendizes e projetos reais.
-- 🚀 Ativamente explorando **n8n** para automação de processos e **testes automatizados** com pytest e Jest.
+<div align="left">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" alt="Coding animation" />
+  Sou <b>Rafael Gogge</b>, estudante de <b>Análise e Desenvolvimento de Sistemas</b> no ES, Brasil 🇧🇷, com foco em <b>FrontEnd</b>.<br>
+  - 💻 Apaixonado por transformar designs em interfaces responsivas e acessíveis.<br>
+  - 🌐 Embaixador Universitário na Digital Innovation One, conectando aprendizes e projetos reais.<br>
+  - 🚀 Ativamente explorando <b>n8n</b> para automação de processos e <b>testes automatizados</b> com pytest e Jest.
+</div>
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-- **Análise e Desenvolvimento de Sistemas** — Centro Universitário Salesiano (Unisales) (2024–presente)
+- **Análise e Desenvolvimento de Sistemas** — Centro Universitário Salesiano (Unisales) (2023–presente)
 - **Embaixador Universitário** — Digital Innovation One (2024)
 
 ---
@@ -119,7 +127,7 @@ I’m **Rafael Gogge**, a **Systems Analysis & Development student** in ES, Braz
 
 ## 🎓 Academic Background
 
-- **Systems Analysis & Development** — Centro Universitário Salesiano (Unisales) (2024–present)
+- **Systems Analysis & Development** — Centro Universitário Salesiano (Unisales) (2023–present)
 - **University Ambassador** — Digital Innovation One (2024)
 
 ---
