@@ -36,7 +36,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" alt="Coding animation" />
   Sou <b>Rafael Gogge</b>, estudante de <b>Análise e Desenvolvimento de Sistemas</b> no ES, Brasil 🇧🇷, com foco em <b>FrontEnd</b>.<br>
   - 💻 Apaixonado por transformar designs em interfaces responsivas e acessíveis.<br>
-  - 🌐 Embaixador Universitário na Digital Innovation One, conectando aprendizes e projetos reais.<br>
+  - 🌐 Embaixador Universitário na Digital Innovation One, conectando aprendizes a projetos reais.<br>
   - 🚀 Ativamente explorando <b>n8n</b> para automação de processos e <b>testes automatizados</b> com pytest e Jest.
 </div>
 
