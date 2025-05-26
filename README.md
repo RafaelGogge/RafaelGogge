@@ -44,7 +44,7 @@
 
 ## 🎓 Formação Acadêmica
 
-- **Análise e Desenvolvimento de Sistemas** — Centro Universitário Salesiano (Unisales) (2023–presente)
+- **Análise e Desenvolvimento de Sistemas** — Centro Universitário Salesiano (Unisales) (2024–presente)
 - **Embaixador Universitário** — Digital Innovation One (2024)
 
 ---
@@ -127,7 +127,7 @@ I’m **Rafael Gogge**, a **Systems Analysis & Development student** in ES, Braz
 
 ## 🎓 Academic Background
 
-- **Systems Analysis & Development** — Centro Universitário Salesiano (Unisales) (2023–present)
+- **Systems Analysis & Development** — Centro Universitário Salesiano (Unisales) (2024–present)
 - **University Ambassador** — Digital Innovation One (2024)
 
 ---
