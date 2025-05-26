@@ -3,17 +3,22 @@
 <!-- ========================= -->
 
 <div align="center">
-  <!-- SVG animado com efeito de digitação -->
   <svg width="400" height="60">
     <text x="0" y="45" font-size="40" font-family="monospace" fill="#6C63FF">
       <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="3s" repeatCount="indefinite" />
       Olá, eu sou o Rafael Gogge!
     </text>
   </svg>
-  <p><em>Estudante de Analise e Desenvolvimento de Sistemas & Entusiasta FrontEnd — Criando experiências digitais envolventes</em></p>
+  <p><em>Estudante de ADS | Foco em Desenvolvimento Web, Automação & Aprendizado Contínuo</em></p>
   <!-- Visitor Count Badge -->
   <img src="https://profile-counter.glitch.me/RafaelGogge/count.svg" alt="Visitor Count" />
 </div>
+
+---
+
+## 🚀 Objetivo
+
+Buscando oportunidade de estágio em T.I para aplicar e expandir meus conhecimentos em desenvolvimento de software, automação, lógica, banco de dados e metodologias ágeis, contribuindo com energia, colaboração e vontade de aprender.
 
 ---
 
@@ -24,6 +29,7 @@
 - [Minhas Tecnologias](#🛠️-minhas-tecnologias)
 - [Projetos em Destaque](#🚀-projetos-em-destaque)
 - [Metas de Aprendizado](#🚀-metas-de-aprendizado)
+- [Diferenciais](#diferenciais)
 - [Contato](#✉️-contato-adicional)
 - [Estatísticas & Conquistas](#📊-estatísticas--conquistas)
 - [🇺🇸 English Version](#🇺🇸-english-version)
@@ -34,10 +40,12 @@
 
 <div align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" alt="Coding animation" />
-  Sou <b>Rafael Gogge</b>, estudante de <b>Análise e Desenvolvimento de Sistemas</b> no ES, Brasil 🇧🇷, com foco em <b>FrontEnd</b>.<br>
-  - 💻 Apaixonado por transformar designs em interfaces responsivas e acessíveis.<br>
+  Sou <b>Rafael Gogge</b>, estudante de <b>Análise e Desenvolvimento de Sistemas</b> no ES, Brasil 🇧🇷, apaixonado por tecnologia e desenvolvimento web.<br>
+  - 💻 Transformo ideias em interfaces responsivas e acessíveis.<br>
   - 🌐 Embaixador Universitário na Digital Innovation One, conectando aprendizes a projetos reais.<br>
-  - 🚀 Ativamente explorando <b>n8n</b> para automação de processos e <b>testes automatizados</b> com pytest e Jest.
+  - 🚀 Experiência prática em projetos acadêmicos e pessoais, com foco em lógica, APIs, automação e testes.<br>
+  - 🤝 Perfil dinâmico, colaborativo, com facilidade de adaptação e comunicação.<br>
+  - 🌍 Inglês intermediário e sempre buscando evoluir.<br>
 </div>
 
 ---
@@ -53,9 +61,9 @@
 
 <div align="center">
 
-|                                                                 **FrontEnd**                                                                  |                                           **Linguagens**                                           |                                    **Automação**                                     |                                             **Testes**                                             |                                                **Ferramentas & IDEs**                                                |                                                 **Design & Org**                                                  |
-| :-------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
-| <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind" height="40" alt="FrontEnd" /><br/>JS, HTML, CSS, Bootstrap, Tailwind | <img src="https://skillicons.dev/icons?i=java,py" height="40" alt="Linguagens" /><br/>Java, Python | <img src="https://skillicons.dev/icons?i=n8n" height="40" alt="Automação" /><br/>n8n | <img src="https://skillicons.dev/icons?i=jest,pytest" height="40" alt="Testes" /><br/>pytest, Jest | <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" alt="Ferramentas" /><br/>Git, GitHub, VSCode | <img src="https://skillicons.dev/icons?i=figma,canva,trello" height="40" alt="Design" /><br/>Figma, Canva, Trello |
+| **FrontEnd** | **Linguagens** | **Automação & BD** | **Testes** | **Ferramentas & IDEs** | **Design & Org** |
+| :----------: | :------------: | :----------------: | :--------: | :--------------------: | :--------------: |
+| <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,angular" height="40" /><br/>HTML5, CSS3, JS, Bootstrap, Tailwind, Angular | <img src="https://skillicons.dev/icons?i=java,py,csharp" height="40" /><br/>Java, Python, C# | <img src="https://skillicons.dev/icons?i=n8n,mysql,postgres" height="40" /><br/>n8n, SQL, PL/SQL | <img src="https://skillicons.dev/icons?i=jest,pytest" height="40" /><br/>Jest, Pytest | <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" /><br/>Git, GitHub, VSCode | <img src="https://skillicons.dev/icons?i=figma,canva,trello" height="40" /><br/>Figma, Canva, Trello |
 
 </div>
 
@@ -78,9 +86,21 @@
 
 ## 🚀 Metas de Aprendizado
 
-- **Dominar n8n** — projetar workflows robustos para integrações e automações avançadas.
-- **Aprofundar em Testes Automatizados** — escrever testes unitários e de integração em Python (pytest) e JavaScript (Jest).
-- **Melhorar Acessibilidade Web** — aplicar melhores práticas e normas WCAG em todos os projetos.
+- **Aprofundar em Lógica e Banco de Dados** — Modelagem, SQL e PL/SQL.
+- **Desenvolver APIs e Arquitetura** — Práticas com ASP.NET Core, C# e Angular.
+- **Aprimorar DevOps e Git** — Fluxos de versionamento e integração contínua.
+- **Evoluir em UX e Acessibilidade** — Aplicar melhores práticas em todos os projetos.
+- **Comunicação & Trabalho em Equipe** — Participação ativa em projetos colaborativos.
+
+---
+
+## Diferenciais
+
+- Experiência prática em projetos reais e acadêmicos, com foco em desenvolvimento web e automação.
+- Facilidade de adaptação, aprendizado rápido e perfil orientado à melhoria contínua.
+- Conhecimento em Git, lógica, SQL, testes automatizados e metodologias ágeis.
+- Inglês intermediário para leitura técnica e comunicação.
+- Proatividade, colaboração e vontade de crescer junto ao time.
 
 ---
 
@@ -109,7 +129,7 @@
 
 <div align="center">
   <h1>👋 Hi, I’m Rafael Gogge!</h1>
-  <p><em>Systems Analysis Student & FrontEnd Enthusiast — Crafting Engaging Digital Experiences</em></p>
+  <p><em>Systems Analysis Student | Focused on Web Development, Automation & Continuous Learning</em></p>
   <img src="https://profile-counter.glitch.me/RafaelGogge/count.svg" alt="Visitor Count" />
 </div>
 
@@ -117,11 +137,13 @@
 
 ## 🙋‍♂️ About Me
 
-I’m **Rafael Gogge**, a **Systems Analysis & Development student** in ES, Brazil 🇧🇷, focusing on **FrontEnd**.
+I’m **Rafael Gogge**, a **Systems Analysis & Development student** in ES, Brazil 🇧🇷, passionate about technology and web development.
 
-- 💻 Passionate about turning designs into responsive, accessible interfaces.
-- 🌐 University Ambassador at Digital Innovation One, bridging learners with real projects.
-- 🚀 Actively exploring **n8n** for automation and **automated testing** with pytest and Jest.
+- 💻 Turning ideas into responsive, accessible interfaces.
+- 🌐 University Ambassador at Digital Innovation One, connecting learners to real projects.
+- 🚀 Practical experience in academic and personal projects, focusing on logic, APIs, automation, and testing.
+- 🤝 Dynamic, collaborative, quick learner, with strong communication skills.
+- 🌍 Intermediate English and always improving.
 
 ---
 
@@ -135,12 +157,13 @@ I’m **Rafael Gogge**, a **Systems Analysis & Development student** in ES, Braz
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,git,github,vscode,java,py,n8n" height="40" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,angular,git,github,vscode,java,py,csharp,dotnet,n8n,mysql,postgres" height="40" alt="Tech Stack" />
 </div>
 
-- **FrontEnd:** JavaScript, HTML5, CSS3, Bootstrap, Tailwind
-- **Languages:** Java, Python
-- **Automation:** n8n
+- **FrontEnd:** JavaScript, HTML5, CSS3, Bootstrap, Tailwind, Angular
+- **Languages:** Java, Python, C#
+- **Automation & DB:** n8n, SQL, PL/SQL
+- **APIs & Architecture:** ASP.NET Core, REST APIs
 - **Testing:** pytest, Jest
 - **Tools & IDEs:** Git, GitHub, VSCode
 - **Design & Org:** Figma, Canva, Trello
@@ -164,9 +187,21 @@ I’m **Rafael Gogge**, a **Systems Analysis & Development student** in ES, Braz
 
 ## 🚀 Learning Goals
 
-- **Master n8n** — design robust workflows for advanced integrations and automation.
-- **Deepen Automated Testing** — implement unit & integration tests with Python (pytest) and JavaScript (Jest).
-- **Enhance Web Accessibility** — apply WCAG best practices across all projects.
+- **Deepen Logic & Databases** — Modeling, SQL, PL/SQL.
+- **Develop APIs & Architecture** — Practice with ASP.NET Core, C#, Angular.
+- **Advance DevOps & Git** — Versioning and CI/CD flows.
+- **Improve UX & Accessibility** — Apply best practices in all projects.
+- **Communication & Teamwork** — Active participation in collaborative projects.
+
+---
+
+## 💡 Highlights for the Position
+
+- Hands-on experience in real and academic projects, focused on web development and automation.
+- Fast learner, adaptable, and improvement-driven.
+- Knowledge in Git, APIs, logic, SQL, automated testing, and agile methodologies.
+- Intermediate English for technical reading and communication.
+- Proactive, collaborative, and eager to grow with the team.
 
 ---
 
