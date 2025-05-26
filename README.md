@@ -71,8 +71,6 @@ Buscando oportunidade de estágio em T.I para aplicar e expandir meus conhecimen
 
 ## 🚀 Projetos em Destaque
 
-<details>
-<summary>🎯 Clique para ver os projetos</summary>
 
 |          Projeto           | Descrição                                                                                            |            Tech Stack            |                              Link                               |
 | :------------------------: | :--------------------------------------------------------------------------------------------------- | :------------------------------: | :-------------------------------------------------------------: |
@@ -80,7 +78,7 @@ Buscando oportunidade de estágio em T.I para aplicar e expandir meus conhecimen
 | **GTI Sistema de Eventos** | Gerenciamento e exibição de eventos para painéis digitais da SSVS, com UI profissional e responsiva. |      HTML, CSS, JavaScript       | [GitHub](https://github.com/RafaelGogge/gti_sistema_de_eventos) |
 |     **Super Quiz QA**      | Quiz interativo para revisão de Qualidade de Software, tornando o estudo mais dinâmico e divertido.  |      HTML, CSS, JavaScript       |     [GitHub](https://github.com/RafaelGogge/super_quiz_QA)      |
 
-</details>
+
 
 ---
 
