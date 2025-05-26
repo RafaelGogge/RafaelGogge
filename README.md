@@ -63,7 +63,7 @@ Buscando oportunidade de estágio em T.I para aplicar e expandir meus conhecimen
 
 | **FrontEnd** | **Linguagens** | **Automação & BD** | **Testes** | **Ferramentas & IDEs** | **Design & Org** |
 | :----------: | :------------: | :----------------: | :--------: | :--------------------: | :--------------: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,angular" height="40" /><br/>HTML5, CSS3, JS, Bootstrap, Tailwind, Angular | <img src="https://skillicons.dev/icons?i=java,py,csharp" height="40" /><br/>Java, Python, C# | <img src="https://skillicons.dev/icons?i=n8n,mysql,postgres" height="40" /><br/>n8n, SQL, PL/SQL | <img src="https://skillicons.dev/icons?i=jest,pytest" height="40" /><br/>Jest, Pytest | <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" /><br/>Git, GitHub, VSCode | <img src="https://skillicons.dev/icons?i=figma,canva,trello" height="40" /><br/>Figma, Canva, Trello |
+| <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" height="40" /><br/>HTML5, CSS3, JS, Bootstrap, Tailwind | <img src="https://skillicons.dev/icons?i=java,py" height="40" /><br/>Java, Python | <img src="https://skillicons.dev/icons?i=n8n,mysql,postgres" height="40" /><br/>n8n, SQL, PL/SQL | <img src="https://skillicons.dev/icons?i=jest,pytest" height="40" /><br/>Jest, Pytest | <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" /><br/>Git, GitHub, VSCode | <img src="https://skillicons.dev/icons?i=figma,canva,trello" height="40" /><br/>Figma, Canva, Trello |
 
 </div>
 
@@ -87,8 +87,8 @@ Buscando oportunidade de estágio em T.I para aplicar e expandir meus conhecimen
 ## 🚀 Metas de Aprendizado
 
 - **Aprofundar em Lógica e Banco de Dados** — Modelagem, SQL e PL/SQL.
-- **Desenvolver APIs e Arquitetura** — Práticas com ASP.NET Core, C# e Angular.
-- **Aprimorar DevOps e Git** — Fluxos de versionamento e integração contínua.
+- **Aprender sobre APIs e Arquitetura** — Conceitos e práticas modernas para integração de sistemas.
+- **Aprimorar DevOps e Git** — Aprender fluxos de versionamento, integração e entrega contínua (CI/CD).
 - **Evoluir em UX e Acessibilidade** — Aplicar melhores práticas em todos os projetos.
 - **Comunicação & Trabalho em Equipe** — Participação ativa em projetos colaborativos.
 
@@ -107,6 +107,7 @@ Buscando oportunidade de estágio em T.I para aplicar e expandir meus conhecimen
 ## ✉️ Contato Adicional
 
 - 📧 Email institucional: [rafael.gogge@souunisales.com.br](mailto:rafael.gogge@souunisales.com.br)
+- 📧 Email pessoal: [rafa.gogge@gmail.com](mailto:rafa.gogge@gmail.com)
 - 🔗 LinkedIn: [rafael-g-500824316](https://www.linkedin.com/in/rafael-g-500824316/)
 
 ---
@@ -208,6 +209,7 @@ I’m **Rafael Gogge**, a **Systems Analysis & Development student** in ES, Braz
 ## ✉️ Additional Contact
 
 - 📧 Institutional email: [rafael.gogge@souunisales.com.br](mailto:rafael.gogge@souunisales.com.br)
+- 📧 Personal email: [rafa.gogge@gmail.com](mailto:rafa.gogge@gmail.com)
 - 🔗 LinkedIn: [rafael-g-500824316](https://www.linkedin.com/in/rafael-g-500824316/)
 
 ---
