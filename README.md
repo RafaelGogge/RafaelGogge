@@ -24,19 +24,6 @@
 
 ---
 
-<div align="center">
-  <svg width="400" height="60">
-    <text x="0" y="45" font-size="40" font-family="monospace" fill="#6C63FF">
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="3s" repeatCount="indefinite" />
-      Olá, eu sou o Rafael Gogge!
-    </text>
-  </svg>
-  <p><em>Estudante de ADS | Foco em Desenvolvimento Web, Automação & Aprendizado Contínuo</em></p>
-  <img src="https://profile-counter.glitch.me/RafaelGogge/count.svg" alt="Visitor Count" />
-</div>
-
----
-
 ## 🚀 Objetivo
 
 Buscando oportunidade de estágio em T.I para aplicar e expandir meus conhecimentos em desenvolvimento de software, automação, lógica, banco de dados e metodologias ágeis, contribuindo com energia, colaboração e vontade de aprender.
